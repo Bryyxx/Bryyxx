@@ -11,7 +11,4 @@ My current focus is on building robust web applications using cutting-edge techn
 💼 Work | 
 I currently work as a Software Developer at my own company, I'm also open to collaborating on exciting projects, so feel free to reach out!
 
-🌐 Get in Touch | 
-Let's connect and collaborate! Whether you have questions, ideas, or just want to chat, you can't find me on, i'm a ghost.
-
 👨‍💻 Check out my work below and don't forget to ⭐️ star the repositories you find interesting!
